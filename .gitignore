@@ -1,0 +1,15 @@
+# Jetbrains
+.idea/
+
+# Dotnet
+*.DotSettings.user
+
+# C#
+bin/
+obj/
+netcoreapp2.1/
+*.dll
+
+## Xunit
+xunit.*
+
